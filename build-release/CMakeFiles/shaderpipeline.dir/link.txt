@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -DNDEBUG  -rdynamic CMakeFiles/shaderpipeline.dir/main.cpp.o  -o shaderpipeline glfw/src/libglfw3.a -lGL glad/libglad.a -lrt -lm -lX11 -lpthread -ldl 
