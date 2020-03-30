@@ -17,7 +17,7 @@ The main modifications includes:
 * planet.fs: change light source and all colors and shapes (perlin noise bumps)
 
 ## To execute:
-run [shaderpipeline](build-release/shaderpipline) under [build-release](build-release)
+run [shaderpipeline](build-release/shaderpipeline) under [build-release](build-release)
 ```Bash
 cd build-release
 ./shaderpipeline
