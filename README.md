@@ -5,7 +5,7 @@ Prepared by Yifan Cui (1002992764) in lecture section LEC2201
 
 Better quality video in video/video.mp4 or [(click here)](video/video.mp4), please set it to **full screen**.
 
-## Desription
+## Description
 This work is extended based on CSC418 2020W Assignment 6 shaderpipline, which build a small earth-moon system.
 
 In this project, I extended it to render the whole solar system, including Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. As well as thousands of small planets showing the whole universe.   
