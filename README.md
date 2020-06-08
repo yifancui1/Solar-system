@@ -1,5 +1,5 @@
 # Solar-system
-Prepared by Yifan Cui (1002992764) in lecture section LEC2201
+Prepared by Yifan Cui in lecture section LEC2201
 
 ![](images/demo.gif)  
 
